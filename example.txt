@@ -1,0 +1,2 @@
+"Line 1" 
+"Modified Line 2 in branch-B" 
